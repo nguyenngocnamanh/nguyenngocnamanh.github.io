@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
-  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  <head>
     <head>
         <title>Brown Bears</title>
       </head>
@@ -39,14 +42,13 @@ Here are some bear species:
 <p>
     The following countries have the largest populations of brown bears:
     <ol>
-        <li>Russia</li>
-        <li>United States</li>
-        <li>Canada</li>
-      </ol>
+      <li>Russia</li>
+      <li>United States</li>
+      <li>Canada</li>
+    </ol>
     <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" />
-    </body>
-    </html>
-
+</body>
+</html>
         
     
    
