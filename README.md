@@ -1,4 +1,7 @@
 
+
+
+<!DOCTYPE html>
 <html lang="en">
 
   
@@ -45,5 +48,6 @@ Here are some bear species:
       </ol>
     <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" />
 
+        
     
    
